@@ -1,9 +1,33 @@
-- 👋 Hi, I’m RAMJI AWASTHI
-- 👀 I’m interested in Android Devlopment
-- 📫 How to reach me ramjiawasthi777@gmail.com
+<h1 align="left">Hey 👋 What's up?</h1>
 
+###
 
-<!---
-Ram7ii/Ram7ii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left">My name is Ramji Awasthi and I'm a Android Developer</p>
+
+###
+
+<h2 align="left">Kotlin • XML • Jetpack Compose | BTech CSE (AI/ML, DSA in C++) | Passionate about mobile development & innovation 🚀</h2>
+
+###
+
+<p align="left">📚 I'm currently learning Jetpack Compose .<br>🎯 Goals: Build sleek Android apps, and optimize DSA skills</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+</div>
+
+###
